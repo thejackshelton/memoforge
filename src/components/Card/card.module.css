@@ -1,0 +1,8 @@
+.wrapper {
+    max-width: 50rem;
+}
+
+.cardHeading {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
